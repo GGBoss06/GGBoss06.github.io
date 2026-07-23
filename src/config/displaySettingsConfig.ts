@@ -9,7 +9,7 @@ export const displaySettingsConfig: DisplaySettingsConfig = {
 	// ── 外观 (Appearance) ──────────────────────────────────
 
 	// 主题色选择器开关
-	themeColorSwitchable: true,
+	themeColorSwitchable: false,
 
 	// 文章列表布局切换开关
 	layoutSwitchable: true,
